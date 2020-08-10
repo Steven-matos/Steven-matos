@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://stevenmportfolio.com/" target="_blank">
-    <img src="https://github.com/Steven-matos/Steven-matos/blob/master/assets/Banner.png" alt="Banner for Steven Matos Github" />
+    <img src="https://github.com/Steven-matos/Steven-matos/blob/master/assets/githubBanner.png" alt="Banner for Steven Matos Github" />
   </a>
 </p>
 
