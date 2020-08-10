@@ -4,7 +4,7 @@
   </a>
 </h1>
 
+<p align="center"><img align="center" src="https://github-readme-stats-git-master.stevenmatos.vercel.app/api/?username=Steven-matos&count_private=true&hide=stars&show_icons=true&bg_color=30,e96443,904e95&title_color=000&text_color=000" />  <img align="center" src="https://github-readme-stats-git-master.stevenmatos.vercel.app/api/top-langs/?username=Steven-matos&layout=compact&bg_color=30,e96443,904e95&title_color=000&text_color=000" /></p>
 
-<img align="center" src="https://github-readme-stats-git-master.stevenmatos.vercel.app/api/?username=Steven-matos&count_private=true&hide=stars&show_icons=true&bg_color=30,e96443,904e95&title_color=000&text_color=000" />
-<img align="center" src="https://github-readme-stats-git-master.stevenmatos.vercel.app/api/top-langs/?username=Steven-matos&layout=compact&bg_color=30,e96443,904e95&title_color=000&text_color=000" />
+
 
