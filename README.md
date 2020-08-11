@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center"><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="500px" /> </h1>
-<p> Welcome to my hub of creations 👋🏽 . I am a Full Stack Web Developer, I have been in this journey of my life for about a year now. Over this time I have learned many coding languages and have gained a passion for learning new ones. If I am not in front of an IDE I'm out camping 🏕  with the family or fishing 🐠  with friends. You can reach me via my <a href="https://stevenmportfolio.com/">portfolio</a> or connect on <a href="https://www.linkedin.com/in/matossteven/">LinkedIn</a></p>
+<p> Welcome to my hub of creations 👋🏽 . I am a Full Stack Web Developer working in a JavaScript, React, Redux, and Python tech stack. I have been in this journey of my life for about a year now, over this time I have learned many coding languages and have gained a passion for learning new ones. If I am not in front of an IDE I'm out camping 🏕  with the family or fishing 🐠  with friends. You can reach me via my <a href="https://stevenmportfolio.com/">portfolio</a> or connect on <a href="https://www.linkedin.com/in/matossteven/">LinkedIn</a></p>
 
 <br/>
 <br/>
