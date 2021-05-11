@@ -32,4 +32,5 @@
 <br/>
 
 <h2 align="center">📈 GitHub Stats</h2>
+![](https://komarev.com/ghpvc/?username=Steven-matos&color=blueviolet)
 <p align="center"><img align="center" src="https://github-readme-stats-git-master.stevenmatos.vercel.app/api/?username=Steven-matos&count_private=true&hide=stars&show_icons=true&bg_color=30,e96443,904e95&title_color=000&text_color=000" />  <img align="center" src="https://github-readme-stats-git-master.stevenmatos.vercel.app/api/top-langs/?username=Steven-matos&layout=compact&bg_color=30,e96443,904e95&title_color=000&text_color=000" /></p>
