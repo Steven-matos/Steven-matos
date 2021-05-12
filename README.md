@@ -7,6 +7,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="500px" /> </h1>
 <p> Welcome to my hub of creations 👋🏽 . I am a Full Stack Web Developer working in a JavaScript, React, Redux, and Python tech stack. I have been in this journey of my life for about a year now, over this time I have learned many coding languages and have gained a passion for learning new ones. If I am not in front of an IDE I'm out camping 🏕  with the family or fishing 🐠  with friends. You can reach me via my <a href="https://stevenmportfolio.com/">portfolio</a> or connect on <a href="https://www.linkedin.com/in/matossteven/">LinkedIn</a></p>
 
+![](https://komarev.com/ghpvc/?username=steven-matos&color=blueviolet)
 <br/>
 <br/>
 
@@ -33,5 +34,3 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center"><img align="center" src="https://github-readme-stats-git-master.stevenmatos.vercel.app/api/?username=Steven-matos&count_private=true&hide=stars&show_icons=true&bg_color=30,e96443,904e95&title_color=000&text_color=000" />  <img align="center" src="https://github-readme-stats-git-master.stevenmatos.vercel.app/api/top-langs/?username=Steven-matos&layout=compact&bg_color=30,e96443,904e95&title_color=000&text_color=000" /></p>
-
-![](https://komarev.com/ghpvc/?username=steven-matos&color=blueviolet)
