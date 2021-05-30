@@ -28,9 +28,3 @@
 ![](https://img.shields.io/badge/Tools-SQLite3-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-
-<br/>
-<br/>
-
-<h2 align="center">📈 GitHub Stats</h2>
-<p align="center"><img align="center" src="https://github-readme-stats-git-master.stevenmatos.vercel.app/api/?username=Steven-matos&count_private=true&hide=stars&show_icons=true&bg_color=30,e96443,904e95&title_color=000&text_color=000" />  <img align="center" src="https://github-readme-stats-git-master.stevenmatos.vercel.app/api/top-langs/?username=Steven-matos&layout=compact&bg_color=30,e96443,904e95&title_color=000&text_color=000" /></p>
