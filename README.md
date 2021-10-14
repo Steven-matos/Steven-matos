@@ -26,4 +26,5 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SQLite3-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Amazon_S3-informational?style=flat&logo=amazons3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Azure_DevOps-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
