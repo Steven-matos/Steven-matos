@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center"><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="500px" /> </h1>
-<p>Greetings to my hub of creations! 👋🏽 I'm a seasoned Full Stack Web Developer immersed in the realms of JavaScript, React, Redux, and Python technologies. Embarking on this journey five years ago, I've traversed through the landscapes of various coding languages, nurturing a fervor for continually embracing novel ones. When I'm not engrossed in an IDE, you'll find me amidst nature, either camping 🏕️ with my family or fishing 🐠 with my friends. Feel free to connect with me through my: <a href="https://stevenmportfolio.com/">portfolio</a> or <a href="https://www.linkedin.com/in/matossteven/">LinkedIn</a></p>
+<p>Greetings to my hub of creations! 👋🏽 I'm a seasoned Full Stack Web Developer immersed in the realms of JavaScript, React, Redux, and Python technologies. Embarking on this journey five years ago, I've traversed through the landscapes of various coding languages, nurturing a fervor for continually embracing novel ones. When I'm not engrossed in an IDE, you'll find me amidst nature, either camping 🏕️ with my family or fishing 🐠 with my friends.
 
 ![](https://komarev.com/ghpvc/?username=steven-matos&color=blueviolet)
 <br/>
